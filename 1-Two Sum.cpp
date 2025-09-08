@@ -1,3 +1,4 @@
+// https://leetcode.com/problems/two-sum/description/?sorting=W3sic29ydE9yZGVyIjoiREVTQ0VORElORyIsIm9yZGVyQnkiOiJESUZGSUNVTFRZIn1d
 class Solution {
 public:
     vector<int> twoSum(vector<int>& nums, int target){
@@ -20,3 +21,4 @@ public:
 
 
 // here O(n^2),but it can be solve O(n) if using hashmap...
+
